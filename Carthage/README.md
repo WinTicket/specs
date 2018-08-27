@@ -7,3 +7,4 @@ binary "https://raw.githubusercontent.com/billioon/specs/master/Carthage/Fabric.
 
 ### Should check
 - [fabric/changelog](https://docs.fabric.io/apple/changelog.html)
+- [Building42/Specs](https://github.com/Building42/Specs)
